@@ -1,0 +1,38 @@
+c:\users\student\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.Form1.resources
+c:\users\student\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.Properties.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+c:\users\student\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+c:\users\student\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.exe
+c:\users\student\documents\visual studio 2010\Projects\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.pdb
+D:\cse\Spring 17\SD\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.exe
+D:\cse\Spring 17\SD\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.pdb
+D:\cse\Spring 17\SD\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeDB.mdf
+D:\cse\Spring 17\SD\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeDB_log.ldf
+D:\cse\Spring 17\SD\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+D:\cse\Spring 17\SD\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+D:\cse\Spring 17\SD\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.csprojResolveAssemblyReference.cache
+D:\cse\Spring 17\SD\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.Form1.resources
+D:\cse\Spring 17\SD\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.Properties.Resources.resources
+D:\cse\Spring 17\SD\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.csproj.GenerateResource.Cache
+I:\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.exe
+I:\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.pdb
+I:\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeDB.mdf
+I:\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeDB_log.ldf
+I:\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+I:\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+I:\EmployeeManagement\EmployeeManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.Form1.resources
+I:\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.Properties.Resources.resources
+I:\EmployeeManagement\EmployeeManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\EmployeeManagement\EmployeeManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\Desktop\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.exe
+C:\Users\Student\Desktop\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.pdb
+C:\Users\Student\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeDB.mdf
+C:\Users\Student\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeDB_log.ldf
+C:\Users\Student\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Users\Student\Desktop\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Users\Student\Desktop\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.Form1.resources
+C:\Users\Student\Desktop\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.Properties.Resources.resources
+C:\Users\Student\Desktop\EmployeeManagement\EmployeeManagement\obj\x86\Debug\EmployeeManagement.csproj.GenerateResource.Cache
